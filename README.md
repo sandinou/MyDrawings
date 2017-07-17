@@ -1,6 +1,7 @@
 # MyDrawings
 MyDrawings is an easy-to-use and fun children's drawing application!
 
+
 ![image](https://user-images.githubusercontent.com/25549336/28269504-f8cbf67c-6b0a-11e7-88e0-ed29bff1698f.png)
 
 MyDrawings has an intuitive interface. It is very easy and fun to draw on the screen of the phone or the tablet.
@@ -11,7 +12,7 @@ MyDrawings has an intuitive interface. It is very easy and fun to draw on the sc
 - French
 - Hebrew
 
-## Specifications :
+### Specifications :
 - Draw a sketch or paint from scratch
 - Finger drawing
 - Pre-defined colors
