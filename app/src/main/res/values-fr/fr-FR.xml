@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mes Dessins</string>
+    <string name="clear">effacer</string>
+    <string name="black_button">bouton noir</string>
+    <string name="red_button">bouton rouge</string>
+    <string name="orange_button">bouton orange</string>
+    <string name="blue_button">bouton bleu</string>
+    <string name="green_button">bouton vert</string>
+    <string name="screen_clear">Ecran effacé !</string>
+    <string name="message">Si tu as besoin d\'aide, appuie sur le bouton avec le point d\'interrogation, en haut à droite.</string>
+    <string name="help_explanations">Appuie sur les différents ronds pour changer la couleur
+        \nTu peux recommencer ton dessin autant de fois que tu veux en appuyant sur le balais
+        \nSi tu veux effacer une partie de ton dessin, utilise la gomme.
+        \n\nA chaque fois que tu appuies sur la loupe avec le +, le trait de ton dessin devient de plus en plus gros,
+        \nA chaque fois que tu appuies sur la loupe avec le -, le trait de ton dessin devient de plus en plus fin.</string>
+    <string name="purple_button">bouton violet</string>
+    <string name="erase">gommer</string>
+    <string name="reduces_the_thickness_of_the_line">Reduit l\'épaisseur du dessin</string>
+    <string name="increases_the_thickness_of_the_line">Augmente l\'épaisseur du dessin</string>
+    <string name="help">aide</string>
+    <string name="close">fermer</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">הציורים שלי</string>
+    <string name="clear">למחוק</string>
+    <string name="black_button">כפתור שחור</string>
+    <string name="red_button">כפתור אדום</string>
+    <string name="orange_button">כפתור כתום</string>
+    <string name="blue_button">כפתור כחול</string>
+    <string name="green_button">כפתור ירוק</string>
+    <string name="screen_clear">המסך נקה!</string>
+    <string name="message">אם אתה צריך עזרה, תלחץ על סימן השאלה בפינה השמאלית העליונה.</string>
+    <string name="help_explanations"> תלחץ על המעגלים השונים כדי לשנות את הצבע.
+        \n\nאתה יכול לחזור על הציור שלך פעמים רבות ככל שתרצה על ידי לחיצה על המטאטא
+        \n\nאם ברצונך למחוק חלק מהציור שלך, תשתמש במחק.
+        \n\nבכל פעם שאתה לוחץ על זכוכית מגדלת עם +, קו הציור שלך הופך להיות גדול יותר,
+        \nבכל פעם שאתה לוחץ על זכוכית מגדלת עם -, הקו של הציור שלך הופך להיות דק יותר.</string>
+    <string name="purple_button">כפתור סגול</string>
+    <string name="erase">למחוק</string>
+    <string name="reduces_the_thickness_of_the_line">מפחית את העובי של משיכות הציור שלך</string>
+    <string name="increases_the_thickness_of_the_line">הגדל את עובי של משיכות הציור שלך</string>
+    <string name="help">עזרה</string>
+    <string name="close">לסגור</string>
+</resources>
