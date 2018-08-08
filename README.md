@@ -22,6 +22,8 @@ MyDrawings has an intuitive interface. It is very easy and fun to draw on the sc
 - Active Help Button
 
 
+<br/><br/><br/>
 
-[https://play.google.com/store/apps/details?id=com.mydrawings](url)
+
+<a href='https://play.google.com/store/apps/details?id=com.mydrawings&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
 
